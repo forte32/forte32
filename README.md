@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<blue>
+  
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=simpleicons_python.svg&logoColor=white"/></a>&nbsp 
+
+
 <!--
 **forte32/forte32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
